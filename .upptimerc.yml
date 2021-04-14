@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
+owner: ezcheatsofficial # Your GitHub organization or username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
@@ -13,6 +13,10 @@ sites:
   - name: EZcheats Beta
     url: https://beta.ezcheats.com
 
+assignees: # Users to assign downtime issues
+  - 0niel
+  - ramjke
+  
 status-website:
   baseUrl: /upptime
   name: EZcheats Status Website
