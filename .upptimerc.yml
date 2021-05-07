@@ -12,6 +12,8 @@ sites:
     url: https://forum.ezcheats.ru
   - name: EZcheats Beta
     url: https://beta.ezcheats.com
+   -name: EZcheats Cloud
+    url: https://ezcheatscloud.com
 
 assignees: # Users to assign downtime issues
   - 0niel
