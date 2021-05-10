@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://ezcheatsofficial.github.io/upptime/): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [EZcheats](https://ezcheats.ru), powered by [Upptime](https://github.com/upptime/upptime).
 
