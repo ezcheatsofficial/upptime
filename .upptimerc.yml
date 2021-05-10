@@ -22,6 +22,12 @@ assignees: # Users to assign downtime issues
 status-website:
   baseUrl: /upptime
   name: EZcheats Status Website
+  logoUrl: https://raw.githubusercontent.com/ezcheatsofficial/upptime/master/assets/logo.svg
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/ezcheatsofficial/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
