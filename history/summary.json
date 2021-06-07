@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 857,
-    "timeDay": 977,
-    "timeWeek": 853,
+    "time": 855,
+    "timeDay": 736,
+    "timeWeek": 859,
     "timeMonth": 821,
-    "timeYear": 857,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 696,
-    "timeDay": 763,
-    "timeWeek": 722,
-    "timeMonth": 703,
+    "timeDay": 695,
+    "timeWeek": 717,
+    "timeMonth": 706,
     "timeYear": 696,
     "dailyMinutesDown": {}
   },
@@ -42,15 +42,15 @@
     "slug": "e-zcheats-forum",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 905,
-    "timeDay": 959,
-    "timeWeek": 947,
+    "time": 906,
+    "timeDay": 943,
+    "timeWeek": 949,
     "timeMonth": 916,
-    "timeYear": 905,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2021-06-05": 3
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 499,
-    "timeWeek": 410,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 392,
+    "timeDay": 343,
+    "timeWeek": 407,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
