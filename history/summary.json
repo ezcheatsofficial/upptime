@@ -4,36 +4,40 @@
     "url": "https://ezcheats.ru",
     "icon": "https://favicons.githubusercontent.com/ezcheats.ru",
     "slug": "e-zcheats-ru-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 755,
-    "timeWeek": 866,
-    "timeMonth": 815,
-    "timeYear": 854,
-    "dailyMinutesDown": {}
+    "time": 857,
+    "timeDay": 903,
+    "timeWeek": 889,
+    "timeMonth": 821,
+    "timeYear": 857,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "EZcheats EN Site",
     "url": "https://ezcheats.com",
     "icon": "https://favicons.githubusercontent.com/ezcheats.com",
     "slug": "e-zcheats-en-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 751,
-    "timeWeek": 723,
-    "timeMonth": 706,
-    "timeYear": 697,
-    "dailyMinutesDown": {}
+    "time": 699,
+    "timeDay": 797,
+    "timeWeek": 738,
+    "timeMonth": 709,
+    "timeYear": 699,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "EZcheats Forum",
