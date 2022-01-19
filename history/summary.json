@@ -13,7 +13,7 @@
     "time": 925,
     "timeDay": 736,
     "timeWeek": 883,
-    "timeMonth": 844,
+    "timeMonth": 848,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2021-12-12": 19,
@@ -37,7 +37,7 @@
     "time": 702,
     "timeDay": 465,
     "timeWeek": 618,
-    "timeMonth": 560,
+    "timeMonth": 563,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2021-12-12": 19,
@@ -74,9 +74,9 @@
     "url": "https://ezcheatscloud.com",
     "icon": "https://favicons.githubusercontent.com/ezcheatscloud.com",
     "slug": "e-zcheats-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -86,6 +86,7 @@
     "timeMonth": 405,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2022-01-19": 0,
       "2021-10-13": 60,
       "2021-09-01": 16,
       "2021-06-28": 16
